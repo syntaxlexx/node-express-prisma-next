@@ -82,7 +82,9 @@ snyk test
 
 ## Deploying
 ### Deploy on Custom Server
-The app will run on 2 instances; one for the backend, the other for next. That is, if you really need a frontend in Next.
+The app will run on 2 instances; 
+- one for the backend (node), 
+- another for the frontend (Nextjs) - that is, if you really need a frontend.
 
 ### Deploying with Docker
 > Coming soon
