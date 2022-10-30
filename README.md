@@ -96,5 +96,5 @@ PRs are welcome. Am no expert in any form, but would love to make a contribution
 
 ## Credits
 - [Lexx Yungcarter](mailto:lexxyungcarter@gmail.com)
-- [AceLords](mailto:info@acelords.space) - [Website](https://acelords.space)
+- [AceLords](mailto:info@acelords.com) - [Website](https://acelords.com)
 
